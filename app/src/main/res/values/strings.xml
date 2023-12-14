@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TechnicalTest_Gli</string>
+    <string name="HeadTitle">Welcome and Enjoy !</string>
+    <string name="subTitle">Login to Continue.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logo">logo</string>
+    <string name="name">Name:</string>
+    <string name="name_body">Bagas Dwi Putra Majid</string>
+    <string name="address">Address:</string>
+    <string name="address_body">Jl. Boulevard Raya Blok I No. 18–19, cengkareng</string>
+    <string name="company">PT. ABC</string>
+    <string name="title_list">List Student SDN Sentul 01</string>
+</resources>
